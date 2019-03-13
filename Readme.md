@@ -1,15 +1,15 @@
 # Projẹct directory 
-## Project repository directory
-Domain Name/Project Name
+  ## Project repository directory
+    Domain Name/Project Name
 
-### Readme.md
-### ARCHIVE
+   ### Readme.md
+   ### ARCHIVE
 
-### AUDIT
+   ### AUDIT
 
-### REFERENCE
+   ### REFERENCE
 
-### WIP
+   ### WIP
 
 
 * WIP: Work In Progress
