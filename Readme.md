@@ -1,4 +1,4 @@
-# Projẹct directory 
+# Project directory 
   ## Project repository directory
     Domain Name/Project Name
 
