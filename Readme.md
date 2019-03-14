@@ -11,7 +11,8 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This is an application to manage tasks in a car garage. 
+It is a subject project requirement, but we hope it will meet some practical requirements.
 
 ## Screenshots
 ![Example screenshot](./picture.png)
@@ -22,16 +23,21 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Code Examples
 Show examples of usage:
-`put-your-code-here`
+`put-your-code`
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+List of features:
+* Receiving Vehicle Maintenance
+* Prepare a repair ticket
+* Look up the car
+* Make a receipt
+* Prepare monthly report
+* Change rules
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is building:
+* week 1: prepare readme.md
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@VietLThanh](https://www.facebook.com/thanhviet.loe) - feel free to contact me!
+Work at: [UIT](https://www.uit.edu.vn/)
