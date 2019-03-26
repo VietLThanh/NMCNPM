@@ -39,6 +39,7 @@ Project is building:
 * week 1: prepare readme.md
 
 ## Contact
+![uit](./picture.png)
 Created by [@VietLThanh](https://www.facebook.com/thanhviet.loe) - feel free to contact me!
 Work at: [UIT](https://www.uit.edu.vn/)
-![uit](./picture.png)
+
