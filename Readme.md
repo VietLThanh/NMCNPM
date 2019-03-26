@@ -15,7 +15,7 @@ This is an application to manage tasks in a car garage.
 It is a subject project requirement, but we hope it will meet some practical requirements.
 
 ## Screenshots
-![Example screenshot](./car.png)
+![Example screenshot](./car.jpg)
 
 ## Technologies
 * Tech 1 - SQL server 2012
