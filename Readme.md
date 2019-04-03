@@ -38,10 +38,14 @@ List of features:
 Project is building:
 * 1/ Prepare readme.md
 * 2/ Show 4-step to analysis project:
+ - FDD.
+ - DFD.
+ - ERD.
+ - Chart Diagram.
 
 ## Contact
 ![uit](./picture.png)
-Created by [@VietLThanh](https://www.facebook.com/thanhviet.loe)
-and [@NguyenPhongTran](https://www.facebook.com/rickyta.0)
+Created by [VietLThanh](https://www.facebook.com/thanhviet.loe)
+and [NguyenPhongTran](https://www.facebook.com/rickyta.0)
 Work at: [UIT](https://www.uit.edu.vn/)
 
