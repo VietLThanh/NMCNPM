@@ -1,5 +1,5 @@
 # CAR GARAGE MANAGEMENT
-> My system help your car garage better! 
+> My app help manage your car garage better! 
 
 ## Table of contents
 * [General info](#general-info)
@@ -27,19 +27,21 @@ Show examples of usage:
 
 ## Features
 List of features:
-* Receiving Vehicle Maintenance
-* Prepare a repair ticket
-* Look up the car
-* Make a receipt
-* Prepare monthly report
-* Change rules
+* Receiving Vehicle Maintenance.
+* Prepare a repair ticket.
+* Look up the car.
+* Make a receipt.
+* Prepare monthly report.
+* Change rules.
 
 ## Status
 Project is building:
-* week 1: prepare readme.md
+* 1/ Prepare readme.md
+* 2/ Show 4-step to analysis project:
 
 ## Contact
 ![uit](./picture.png)
-Created by [@VietLThanh](https://www.facebook.com/thanhviet.loe) - feel free to contact me!
+Created by [@VietLThanh](https://www.facebook.com/thanhviet.loe)
+and [@NguyenPhongTran](https://www.facebook.com/rickyta.0)
 Work at: [UIT](https://www.uit.edu.vn/)
 
