@@ -37,11 +37,7 @@ List of features:
 ## Status
 Project is building:
 * 1/ Prepare readme.md
-* 2/ Show 4-step to analysis project:
- - FDD.
- - DFD.
- - ERD.
- - Chart Diagram.
+* 2/ Show 4-step to analysis project: FDD, DFD, ERD, Chart Diagram.
 
 ## Contact
 ![uit](./picture.png)
