@@ -38,6 +38,8 @@ List of features:
 Project is building:
 * 1/ Prepare readme.md
 * 2/ Show 4-step to analysis project: FDD, DFD, ERD, Chart Diagram.
+* 3/ Design Data and Interface.
+* 4/ 
 
 ## Contact
 ![uit](./picture.png)
